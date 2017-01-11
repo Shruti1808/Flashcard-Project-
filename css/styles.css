@@ -1,0 +1,10 @@
+.panel{
+  display: none;;
+  border:3px solid black;
+  background-color:green;
+}
+.panel-heading{
+  display:block;
+  border:3px solid black;
+  background-color:green;
+}

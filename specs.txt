@@ -1,0 +1,28 @@
+click heading to drop definition
+click definition to hide definition
+ - assign id's to every panel
+ -slide up
+ -on click...slide down
+
+
+
+click heading will hide unrelated definitions while showing its own
+#JS
+#Oper
+#Var
+#Vnc
+#Func
+#Met
+#Arg
+#Par
+#Ret
+#Chain
+#String
+#Boo
+#Undef
+#NaN
+#Escape
+#Alert
+#Comments
+#jQuery
+#Att
